@@ -12,5 +12,6 @@
 
 ```
 $ npm install
+$ npm run installclient
 $ npm run dev
 ```
